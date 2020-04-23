@@ -1,2 +1,5 @@
 # hello-world
-first steps
+
+first steps to programing world.
+
+
